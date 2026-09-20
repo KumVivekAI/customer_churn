@@ -2,6 +2,15 @@
 
 End-to-end machine learning solution for predicting customer churn at a telecommunications company.
 
+## Artifact
+https://drive.google.com/drive/folders/1uAKMGpHjFpgjrFVYHtXiRzWjjtYdiMWR?usp=drive_link
+
+### Video Link
+https://drive.google.com/file/d/1BXu17p4qCRy66yuevPqcRQl3uXJq91Nr/view?usp=sharing
+
+### Repo Link
+https://drive.google.com/file/d/1VHnMNyCikV9WBHZLyTUh9EN3ibEq9BvF/view?usp=sharing
+
 ## Workflow Overview
 
 This project follows the full assignment workflow:
