@@ -9,7 +9,7 @@ https://drive.google.com/drive/folders/1uAKMGpHjFpgjrFVYHtXiRzWjjtYdiMWR?usp=dri
 https://drive.google.com/file/d/1BXu17p4qCRy66yuevPqcRQl3uXJq91Nr/view?usp=sharing
 
 ### Repo Link
-https://drive.google.com/file/d/1VHnMNyCikV9WBHZLyTUh9EN3ibEq9BvF/view?usp=sharing
+https://github.com/KumVivekAI/customer_churn
 
 ## Workflow Overview
 
