@@ -1,0 +1,61 @@
+{
+  "selected_model": "tuned_tree",
+  "comparison": [
+    {
+      "model_name": "baseline_tree",
+      "accuracy": 0.7278750591575959,
+      "precision": 0.4878472222222222,
+      "recall": 0.5008912655971479,
+      "f1": 0.49428320140721194,
+      "confusion_matrix": [
+        [
+          1257,
+          295
+        ],
+        [
+          280,
+          281
+        ]
+      ],
+      "classification_report": "              precision    recall  f1-score   support\n\n          No       0.82      0.81      0.81      1552\n         Yes       0.49      0.50      0.49       561\n\n    accuracy                           0.73      2113\n   macro avg       0.65      0.66      0.65      2113\nweighted avg       0.73      0.73      0.73      2113\n"
+    },
+    {
+      "model_name": "tuned_tree",
+      "accuracy": 0.7326076668244202,
+      "precision": 0.49770642201834864,
+      "recall": 0.7736185383244206,
+      "f1": 0.6057222609909281,
+      "confusion_matrix": [
+        [
+          1114,
+          438
+        ],
+        [
+          127,
+          434
+        ]
+      ],
+      "classification_report": "              precision    recall  f1-score   support\n\n          No       0.90      0.72      0.80      1552\n         Yes       0.50      0.77      0.61       561\n\n    accuracy                           0.73      2113\n   macro avg       0.70      0.75      0.70      2113\nweighted avg       0.79      0.73      0.75      2113\n"
+    }
+  ],
+  "final_model_metrics": {
+    "model_name": "tuned_tree",
+    "accuracy": 0.7326076668244202,
+    "precision": 0.49770642201834864,
+    "recall": 0.7736185383244206,
+    "f1": 0.6057222609909281,
+    "confusion_matrix": [
+      [
+        1114,
+        438
+      ],
+      [
+        127,
+        434
+      ]
+    ],
+    "classification_report": "              precision    recall  f1-score   support\n\n          No       0.90      0.72      0.80      1552\n         Yes       0.50      0.77      0.61       561\n\n    accuracy                           0.73      2113\n   macro avg       0.70      0.75      0.70      2113\nweighted avg       0.79      0.73      0.75      2113\n"
+  },
+  "train_size": 4930,
+  "test_size": 2113
+}
